@@ -29,5 +29,4 @@ A `skills/network-analysis` funciona como um tradutor técnico e educativo: o us
 
 1. Clone este repositório e acesse a pasta raiz do projeto no terminal:
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-   cd seu-repositorio
+   git clone https://github.com/netos10/GuardAI.git
