@@ -25,8 +25,7 @@ A `skills/network-analysis` funciona como um tradutor técnico e educativo: o us
 
 ---
 
-##  Como Executar o GuardAI
+Obrigado a quem passou por aqui e conferiu esse projeto, curti muito criar essa skill e acredito que ela seja bem útil.
 
-1. Clone este repositório e acesse a pasta raiz do projeto no terminal:
-   ```bash
-   git clone https://github.com/netos10/GuardAI.git
+   **-Orlando Neto
+**
