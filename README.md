@@ -27,5 +27,4 @@ A `skills/network-analysis` funciona como um tradutor técnico e educativo: o us
 
 Obrigado a quem passou por aqui e conferiu esse projeto, curti muito criar essa skill e acredito que ela seja bem útil.
 
-   **-Orlando Neto
-**
+   **-Orlando Neto**
